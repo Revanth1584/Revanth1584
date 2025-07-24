@@ -1,61 +1,72 @@
-<h1 align="center">
-  🤖 Revanth Kaushik <br>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analytics+%7C+AI%2FML+Explorer;Pythonic+Mind+at+Work;Building+Real+World+Projects...&center=true&width=500&height=30&color=00BFFF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hey there! 🤖 I'm Revanth Kaushik</h1>
+<h3 align="center">🚀 Aspiring Data Analyst | 🧠 Python for AI/ML | 💻 Engineering Explorer</h3>
 
----
-
-## 🚀 About Me
-- 🎓 First-Year CSE Student  
-- 📊 Passionate about **Data Analytics** and **AI/ML**  
-- 🧠 Focused on turning data into insights and ideas into action  
-- 🔭 Currently building hands-on projects & public learning repos  
-- 🎯 Goal: Land a **paid internship** by Sem 2, Year 2
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-`Python` • `SQL` • `R (Basics)`
-
-**Data Analysis & Visualization**  
-`Excel` • `Pandas` • `NumPy` • `Matplotlib` • `Power BI` • `Tableau`
-
-**Machine Learning & AI**  
-`Scikit-learn` • `TensorFlow` • `PyTorch (Learning)` • `OpenCV` • `NLTK`
-
-**Databases & Storage**  
-`Firebase` • `MongoDB` • `MySQL`
-
-**Tools & IDEs**  
-`Jupyter Notebook` • `Google Colab` • `VS Code`
-
-**Version Control**  
-`Git` • `GitHub`
-
----
-
-## 📌 Current Projects
-- 🔬 **Medical Disease Prediction App** (Gradio + ML models)
-- 📍 **Telangana Police Portal UI Clone**
-- 📈 **Student Performance Analyzer using Power BI**
-- 🧭 **Bike Theft Tracking Software with Command Room UI**
-
----
-
-## ⚙️ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revanthkaushik&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=revanthkaushik&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Transforming+data+into+decisions;Building+AI-powered+mini+apps;Learning+every+single+day+🔥" alt="Typing SVG" />
 </p>
 
 ---
 
-## 💬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- Mail: `rkrevanth295@gmail.com`  
-- Telegram: [@revanthccs](https://t.me/revanthccs)  
+### 👨‍🎓 About Me
+- 🔍 Exploring: **AI/ML | Data Analytics | Command-UI tools**
+- 🛠 Building: **Gradio projects, dashboards, Python bots**
+- 🧠 Learning: **Pandas, Scikit-learn, Power BI, NumPy**
+- 🎯 Dream: **Land a Data/ML internship by next summer**
+- ⚡ Fun Fact: I simulate **Tech-Police stations in code** 😂
 
-> 👨‍💻 "Learning is my constant, coding is my craft, and AI is my compass." 🔥
+---
+
+### 💻 Tech Stack
+
+**📊 Data & Analysis**  
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**🧠 AI/ML & Automation**  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?style=flat&logo=gradio&logoColor=white)
+
+**📚 Programming & Dev**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=revanthkaushik&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: rkrevanth295@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/revanthkaushik](https://linkedin.com/in/revanthkaushik)  
+- 🐍 GitHub: [github.com/revanthkaushik](https://github.com/revanthkaushik)
+
+---
+
+### 🤖 Meet Robo-Kaushik (ASCII Edition)
+⠀⠀⠀⠀⠀⠀⣠⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣦⣄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢸⣿⠟⠋⠉⠀⠀⠀⠀⠉⠉⠙⠻⢿⣿⣿⠿⠿⢷⣄⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣿⡇ ⠀🤖 Hello, I'm Robo-Kaushik!⠀⢸⣿⠀⠀⠀
+⠀⠀⠀⠀⠀⣿⡇ 📊 Let’s analyze & automate! ⢸⣿⠀⠀⠀
+⠀⠀⠀⠀⠀⠹⣿⣦⣄⠀⠀⠀⠀⠀⠀⣠⣴⣿⡿⠃⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⠛⠿⢿⣿⣿⣿⣿⣿⠿⠿⠋⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+yaml
+Copy
+Edit
+
+---
+
+> ⚡ _"I don't just learn Python. I train with it."_ 🐍  
+> – Revanth, 2025 😎
 
