@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Revanth Kaushik  
 ### 🎓 Engineering Student | 🧠 AIML & Data Analytics Enthusiast  
 
-**Hey, this is Revanth Kaushik**
+
 
 <!-- Robot GIF Below Intro -->
 <p align="center">
