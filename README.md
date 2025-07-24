@@ -1,72 +1,50 @@
-<h1 align="center">Hey there! 🤖 I'm Revanth Kaushik</h1>
-<h3 align="center">🚀 Aspiring Data Analyst | 🧠 Python for AI/ML | 💻 Engineering Explorer</h3>
-
+<!-- 🔥 ROBOT GIF ON TOP -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Transforming+data+into+decisions;Building+AI-powered+mini+apps;Learning+every+single+day+🔥" alt="Typing SVG" />
+  <img src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNsemw1anNpcGptN25hdGlreHZnd3l6dmRjNWc2M2I4dXR3aXY4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif)" width="250"/>
 </p>
 
----
-
-### 👨‍🎓 About Me
-- 🔍 Exploring: **AI/ML | Data Analytics | Command-UI tools**
-- 🛠 Building: **Gradio projects, dashboards, Python bots**
-- 🧠 Learning: **Pandas, Scikit-learn, Power BI, NumPy**
-- 🎯 Dream: **Land a Data/ML internship by next summer**
-- ⚡ Fun Fact: I simulate **Tech-Police stations in code** 😂
+<h1 align="center">Hey, I'm Revanth Kaushik 👋</h1>
 
 ---
 
-### 💻 Tech Stack
+### 👨‍💻 About Me
 
-**📊 Data & Analysis**  
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+- 🎓 First-year Computer Science & Engineering student  
+- 🎯 Aspiring Data Analyst & AI/ML Engineer  
+- 🚀 Currently learning Python, Data Analytics, Machine Learning, and Web Development  
+- 📬 Reach out to me: rkrevanth295@gmail.com  
 
-**🧠 AI/ML & Automation**  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?style=flat&logo=gradio&logoColor=white)
+---
 
-**📚 Programming & Dev**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+### 🧠 Technologies & Tools I'm Exploring
+
+#### 🚀 Languages
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=MySQL)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+#### ⚙️ Libraries & Frameworks
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square)
+![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-black?style=flat-square&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=Tensorflow)
+![Gradio](https://img.shields.io/badge/-Gradio-black?style=flat-square)
+
+#### 📊 Tools & Platforms
+![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-black?style=flat-square&logo=google-colab)
+![Kaggle](https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle)
 
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revanthkaushik&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" width="350"/>
 </p>
-
----
-
-### 📫 Connect With Me
-- 📧 Email: rkrevanth295@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/revanthkaushik](https://linkedin.com/in/revanthkaushik)  
-- 🐍 GitHub: [github.com/revanthkaushik](https://github.com/revanthkaushik)
-
----
-
-### 🤖 Meet Robo-Kaushik (ASCII Edition)
-⠀⠀⠀⠀⠀⠀⣠⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣦⣄⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢸⣿⠟⠋⠉⠀⠀⠀⠀⠉⠉⠙⠻⢿⣿⣿⠿⠿⢷⣄⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⣿⡇ ⠀🤖 Hello, I'm Robo-Kaushik!⠀⢸⣿⠀⠀⠀
-⠀⠀⠀⠀⠀⣿⡇ 📊 Let’s analyze & automate! ⢸⣿⠀⠀⠀
-⠀⠀⠀⠀⠀⠹⣿⣦⣄⠀⠀⠀⠀⠀⠀⣠⣴⣿⡿⠃⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠈⠛⠿⢿⣿⣿⣿⣿⣿⠿⠿⠋⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
-yaml
-Copy
-Edit
-
----
-
-> ⚡ _"I don't just learn Python. I train with it."_ 🐍  
-> – Revanth, 2025 😎
 
